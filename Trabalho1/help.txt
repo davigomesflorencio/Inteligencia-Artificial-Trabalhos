@@ -1,0 +1,15 @@
+Instruções para executar o código 
+- Execute no terminal 
+
+python main.py
+
+Detalhes sobre o interpretadores e versões requeridos
+- Interpretador Python
+- Python 2 ou Pyhton 3 quaisquer versões 
+
+Requisitos de sistema operacional
+- Sistema operacional necessita do python instalado
+
+Operações para iniciar a busca.
+- Digitar a quantidade de rainhas
+- Digitar 1 ou 2 para a busca em profundidade e largura respectivamente
