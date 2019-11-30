@@ -1,0 +1,20 @@
+Instruções para executar o código 
+- Execute no terminal 
+
+python main.py
+
+Detalhes sobre o interpretadores e versões requeridos
+- Interpretador Python
+- Python 2 ou Python 3 quaisquer versões 
+
+Requisitos de sistema operacional
+- Sistema operacional necessita do python instalado
+
+Operações para iniciar a busca.
+- Digitar 1, 2 para os algoritmos
+- Digitar 1, 2 ou 3 para o tipo de estado que deseja realizar a busca
+
+
+O problema não está generalizado para mais funcionários
+Então o numero de funcionários é igual a 10
+        numero de turnos é igual a 21
